@@ -1,4 +1,4 @@
-esolucion de ejercicio realizado  en la materia de Programacion con Objetos II. Resuelto con Java
+Resolucion de ejercicio realizado  en la materia de Programacion con Objetos II. Resuelto con Java
 
 Descripción del problema:
 Una academia dedicada a las difíciles artes de
