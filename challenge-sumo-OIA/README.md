@@ -67,7 +67,7 @@ La salida sumo.out debería ser:
 5
 0
 0
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------xercise Resolution from the Object-Oriented Programming II Course. Solved with Java
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Exercise Resolution from the Object-Oriented Programming II Course. Solved with Java
 Problem Description:
 A martial arts academy specializing in the difficult arts of oriental combat is organizing a sumo wrestling tournament. To create the fight schedule, it's necessary to pair up wrestlers to offer an attractive show. The organizers, knowing that participants in this discipline typically have an imposing physical stature, usually pair fighters by comparing their heights and weights.
 
